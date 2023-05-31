@@ -1,0 +1,51 @@
+.table-1,
+.table-2{
+  border: 1px solid rgb(24, 23, 23);
+  width: 30%;
+  margin: 5px auto;
+}
+.table-2{
+    width: 50%;
+}
+
+.student-info-heading,
+.standard,
+.dropdown,
+.enter-roll,
+.input-area,
+.info-btn,
+.common-borde{
+  border: 1px solid rgb(24, 23, 23);
+}
+.student-info-heading{
+    padding: 10px 15px;
+    background-color: green;
+}
+/* all centering class is here  */
+.center-class{
+    text-align: center;
+}
+
+.show-info-btn{
+    background-color: red;
+    border-radius: 8px;
+}
+
+.welcome-section{
+    border: 1px solid burlywood;
+    background-color: burlywood;
+    width: 40%;
+    margin: 100px auto;
+    
+}
+.form{
+    padding: 10px 40px;
+    margin: 25px auto;
+    width: 75%;
+    border: 1px solid beige;
+    background-color: bisque;
+}
+form{
+    width: 40%;
+    margin: 20px auto;
+}
